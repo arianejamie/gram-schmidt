@@ -16,3 +16,5 @@ Array ( [0] => 0,1,0 [1] => 0.707106781187,0,0.707106781187 )
 <hr />
 
 Each function is accompanied by a heading comment naming and describing its purpose. Five protected functions defining of simple vector calculations: _getDotProduct() and _getDifference returns the dot products and differences of two vectors of any size, _getNorm() returns the product of any size vector and a single scalar, _getScalarProduct and getScalarQuotient operate on two any size vectors. The above methods are used in the three public methods which make up the process itself: _getOrthogonal which converts basis to orthogonal basis, _getNormalized which normalizes and _getOrthonormalizedSet which carries out both functions in one step. See code and method headings for more details.
+
+_May 16, 2012_
