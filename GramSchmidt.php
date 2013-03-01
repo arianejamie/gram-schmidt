@@ -3,7 +3,8 @@
  * Converts any set of two arrays of any size to
  * an orthonormal set using the Gram-Schidmt Process
  * @class GramSchmidt
- * @author Ariane Salvador Spring 2012 for Math 254
+ * @author Ariane Jamie 
+ * @datecreated Spring 2012
  */
 
 class GramSchmidt{
